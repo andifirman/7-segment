@@ -1,3 +1,5 @@
+//7 Segment Anode Type
+
 const byte numeral[10] = {
   // 0 = led dalam seven segment yang tidak diberikan tagangan
   // 1 = led dalam seven segment yang diberikan tagangan masukan
